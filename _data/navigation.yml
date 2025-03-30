@@ -14,12 +14,12 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "News"
-    url: /news/         
-    
   - title: "CV"
     url: /cv/
 
+  - title: "From the Field"
+    url: /field/         
+  
   - title: "Science-Art"
     url: /science-art/
     
