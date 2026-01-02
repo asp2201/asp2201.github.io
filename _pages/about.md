@@ -5,10 +5,10 @@ permalink: /
 author_profile: true
 ---
 
-Hi! I’m **Ally Peccia** (she/her), a **Ph.D. candidate in Earth & Environmental Sciences at Columbia University** (Lamont-Doherty Earth Observatory), advised by **Terry Plank**. My dissertation is titled **_“Hellfire and Brimstone: Sulfur recycling at subduction zones and the interplay between volcanoes and climate.”_**【:contentReference[oaicite:2]{index=2}】
+Hi! I’m **Ally Peccia** (she/her), a **Ph.D. candidate in Earth & Environmental Sciences at Columbia University** (Lamont-Doherty Earth Observatory), advised by **Terry Plank**. My dissertation is titled **_“Hellfire and Brimstone: Sulfur recycling at subduction zones and the interplay between volcanoes and climate.”_**
 
 ## Research interests
-I study **volcano–climate interactions**, with a focus on【:contentReference[oaicite:3]{index=3}】:
+I study **volcano–climate interactions**, with a focus on:
 - Explosive eruptions and their impacts
 - Climatic drivers of volcanism on geologic timescales
 - Cycling of volatiles (especially sulfur) through subduction zones
@@ -22,9 +22,9 @@ I study **volcano–climate interactions**, with a focus on【:contentReference[
 - **Megan Marostica** (2024–present): Poás volcano timescales & volatile budget  
 - **Elliot Molz** (2024–present): Santorini early caldera-forming eruption storage conditions  
 - **Violet Thompson** (2024): undergraduate research work-study  
-- **Sharothy Mahmud** (2021–2022): olivine diffusion chronometry (Cleveland 2016)【:contentReference[oaicite:4]{index=4}】
+- **Sharothy Mahmud** (2021–2022): olivine diffusion chronometry (Cleveland 2016)
 
 ## Contact
-Email: **asp2201@columbia.edu**【:contentReference[oaicite:5]{index=5}】  
+Email: **asp2201@columbia.edu**
 For my full CV, see **[CV]({{ site.baseurl }}/cv/)**.
 
