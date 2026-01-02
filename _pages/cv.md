@@ -13,5 +13,3 @@ author_profile: true
   height="950px"
   style="border: 1px solid #ddd; border-radius: 8px;"
 ></iframe>
-
-* Currently signed in to 43 different slack teams
